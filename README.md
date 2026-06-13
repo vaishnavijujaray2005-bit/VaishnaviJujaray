@@ -68,6 +68,7 @@ basically has all the personal information of students and college information .
 
 - Generative AI Certification
 - ServiceNow Certification
+- Google corsera certifications on UI/UX Designing 
 
 ---
 
