@@ -55,7 +55,8 @@ Created a web-based platform for managing memberships, attendance, and gym opera
 ###  Gesture Based Media Controller
 Implemented computer vision techniques to control media playback through hand gestures.
 
-###  AI Generated Image & Video Detector
+
+###  AI Generated Image & Video Detector(ONGOING)
 Designed a solution to detect AI-generated visual content using machine learning concepts.
 
 ###  All in one studend productive app (User experience project )
